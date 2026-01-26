@@ -1,57 +1,30 @@
-# AWS-Restart-Portfolio
-# 👋 Hey, I’m Rudi
+# AWS Cloud Portfolio
 
-☁️ **AWS Cloud Practitioner (in progress)**  
-📍 Cape Town, South Africa  
-🧠 Tech-minded | Curious | Always learning  
-✨ Main-character energy, but make it cloud ☁️
+This repository showcases my hands-on experience with cloud computing concepts and AWS services.
+It includes practical labs, projects, and certifications completed as part of structured cloud training and independent learning.
 
----
-
-## 🚀 About Me
-
-I’m currently training as an **AWS Cloud Practitioner**, building a solid foundation in cloud computing, AWS services, security, and best practices.
-
-I enjoy understanding **how systems work behind the scenes**, especially when it comes to:
+The work in this repository demonstrates foundational and intermediate skills in:
 - Cloud infrastructure
-- Scalability & reliability
-- Cost-efficient architectures
-- Real-world cloud use cases
+- Compute and networking services
+- Security and database fundamentals
+- Hands-on AWS labs and projects
 
-This GitHub is where I document my **learning journey**, experiments, and hands-on practice as I grow in the cloud space.
-
----
-
-## ☁️ What I’m Learning (AWS)
-
-- 🌩️ Core AWS services (EC2, S3, RDS, IAM, VPC)
-- 🔐 Cloud security & shared responsibility model
-- 📊 Monitoring, pricing & cost management
-- 🏗️ High availability & basic cloud architecture
-- ⚙️ Cloud concepts & best practices
+This portfolio is designed to grow as I continue working on cloud-based solutions and real-world projects.
 
 ---
 
-## 🛠️ Tools & Tech
+## Repository Structure
 
-- ☁️ **Amazon Web Services (AWS)**
-- 🧩 Git & GitHub
-- 🖥️ Cloud-based labs & simulations
-- 📚 Continuous learning & documentation
+### Labs
+Hands-on labs focused on core cloud infrastructure concepts.
 
----
+### Certifications & Badges
+Documentation and evidence of completed cloud learning paths and simulations.
 
-## 📌 Goals
-
-- ✅ Pass the **AWS Certified Cloud Practitioner** exam  
-- 🔄 Build hands-on cloud projects  
-- 📈 Grow into more advanced cloud & infrastructure roles  
-- 🧠 Stay curious and adaptable in tech
+### Projects
+End-to-end cloud projects demonstrating applied knowledge, architecture design, and deployment.
 
 ---
 
-## 🤝 Let’s Connect
-
-If you’re into cloud, tech, or just building cool things — you’re in the right place.
-
-> _“The cloud isn’t the future. It’s the present.”_ ☁️✨
+## Author
+Shaun Wana
