@@ -1,0 +1,175 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f6efe9;
+  color: #5a4a42;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 60px;
+  background: #f3e9e2;
+  position: sticky;
+  top: 0;
+}
+
+.logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+}
+
+.navbar nav a {
+  margin-left: 25px;
+  text-decoration: none;
+  color: #5a4a42;
+}
+
+.about-section {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* this is the key part */
+  padding: 60px;
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+}
+
+.about-card {
+  background: rgba(246, 241, 235, 0.9);
+  padding: 50px;
+  max-width: 700px;
+  border-radius: 14px;
+  text-align: center;
+  justify-content: center;
+}
+
+/* Hero */
+.hero {
+  height: 85vh;
+  background: url("images/hero.jpeg") center/cover no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-overlay {
+  background: rgba(255, 255, 255, 0.75);
+  padding: 50px 70px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.hero-overlay h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 64px;
+}
+
+.hero-overlay p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+/* Menu */
+.menu-section {
+  padding: 90px 60px;
+  text-align: center;
+  background-image: url(images/background.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.menu-section h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+
+.menu-grid {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.menu-card {
+  background: #fff;
+  width: 280px;
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.menu-card img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+.menu-card h3 {
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 10px;
+}
+
+.menu-card ul {
+  list-style: none;
+}
+
+.menu-card li {
+  margin-bottom: 6px;
+}
+
+/* Contact */
+.contact-section {
+
+  padding: 90px 60px;
+}
+
+.contact-overlay {
+  background: rgba(255, 255, 255, 0.85);
+  max-width: 550px;
+  margin: auto;
+  padding: 40px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.contact-overlay h2 {
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 25px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  background: #5a4a42;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.75);
+}
