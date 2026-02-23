@@ -46,4 +46,4 @@ Beyond just reading about services, I was actually configuring them — deployin
 | **Issued by** | Amazon Web Services (AWS Skill Builder) |
 | **Completed** | February 2026 |
 
-🔗 [View Badge](https://github.com/rudiadams/AWS-Restart-Portfolio/blob/main/certifications-and-badges/CloudQuest%20-%20Cloud%20Practitioner.md) &nbsp;|&nbsp; [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+🔗 [View Badge](https://github.com/rudiadams/AWS-Restart-Portfolio/blob/main/certifications-and-badges/Cloud%20Practitioner/CloudQuest/CloudQuest%20-%20Cloud%20Practitioner.md) &nbsp;|&nbsp; [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
