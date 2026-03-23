@@ -41,4 +41,6 @@ This category deepened my understanding of ethical AI development and deployment
 * Knowledge of human-centered design principles and how to incorporate them into AI product development.
 * The capability to assess and communicate responsible AI risks to non-technical stakeholders.
 
+<img width="883" height="606" alt="Screenshot 2026-03-16 at 09 45 47" src="https://github.com/user-attachments/assets/a96352dd-0aec-47a1-9b67-1e30b5f9eb37" />
 
+[Responsible Artifical Intelligence Practices.pdf](https://github.com/user-attachments/files/26178470/Responsible.Artifical.Intelligence.Practices.pdf)
